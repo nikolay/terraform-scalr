@@ -1,0 +1,14 @@
+act 0.2.50
+actionlint 1.6.25
+asdf-plugin-manager 1.1.1
+direnv 2.32.3
+driftctl 0.39.0
+editorconfig-checker 2.7.1
+fzf 0.42.0
+github-cli 2.33.0
+jq 1.6
+pre-commit 3.4.0
+terraform 1.5.5
+terraform-docs 0.16.0
+terraform-ls 0.31.5
+tfupdate 0.7.2
