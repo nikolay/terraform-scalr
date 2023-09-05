@@ -58,7 +58,7 @@ resource "scalr_workspace" "terraform_scalr" {
   }
 
   var_files = [
-    "terraform.tfvars",
+    "./terraform.tfvars",
   ]
 
   working_directory = "/"
